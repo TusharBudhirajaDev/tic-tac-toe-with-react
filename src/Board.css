@@ -1,0 +1,58 @@
+.board {
+  width: 30vw;
+  height: 50%;
+  background-color: none;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.input {
+  height: 33.33%;
+  width: 33.33%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+
+  font-style: italic;
+  font-weight: 700;
+  font-size: 6rem;
+}
+
+.input-1 {
+  border-right: 2px solid green;
+  border-bottom: 2px solid green;
+}
+
+.input-2 {
+  border-right: 2px solid green;
+  border-bottom: 2px solid green;
+}
+
+.input-3 {
+  border-bottom: 2px solid green;
+}
+
+.input-4 {
+  border-right: 2px solid green;
+  border-bottom: 2px solid green;
+}
+
+.input-5 {
+  border-right: 2px solid green;
+  border-bottom: 2px solid green;
+}
+
+.input-6 {
+  border-bottom: 2px solid green;
+}
+
+.input-7 {
+  border-right: 2px solid green;
+}
+
+.input-8 {
+  border-right: 2px solid green;
+}
